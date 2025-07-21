@@ -1,4 +1,4 @@
-# 🔳 QRGen - Gerador de QR Code Instantâneo
+# QRGen - Gerador de QR Code Instantâneo
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O **QRGen** é uma ferramenta web que permite criar QR Codes de forma rápida e simples. Desenvolvi este projeto para resolver um problema específico:
 
